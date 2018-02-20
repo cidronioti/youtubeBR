@@ -1,0 +1,12 @@
+C:\YoutubeBR\YoutubeBR\bin\Debug\YoutubeBR.exe.config
+C:\YoutubeBR\YoutubeBR\bin\Debug\YoutubeBR.exe
+C:\YoutubeBR\YoutubeBR\bin\Debug\YoutubeBR.pdb
+C:\YoutubeBR\YoutubeBR\obj\Debug\YoutubeBR.Properties.Resources.resources
+C:\YoutubeBR\YoutubeBR\obj\Debug\YoutubeBR.csproj.GenerateResource.Cache
+C:\YoutubeBR\YoutubeBR\obj\Debug\YoutubeBR.exe
+C:\YoutubeBR\YoutubeBR\obj\Debug\YoutubeBR.pdb
+C:\YoutubeBR\YoutubeBR\bin\Debug\Newtonsoft.Json.dll
+C:\YoutubeBR\YoutubeBR\bin\Debug\YoutubeExtractor.dll
+C:\YoutubeBR\YoutubeBR\bin\Debug\Newtonsoft.Json.xml
+C:\YoutubeBR\YoutubeBR\bin\Debug\YoutubeExtractor.xml
+C:\YoutubeBR\YoutubeBR\obj\Debug\YoutubeBR.YoutubeBR.resources
